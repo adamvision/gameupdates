@@ -1,6 +1,6 @@
 {
     "_comment": "Game = FlipFlopXL",
-    "android": "Update text for Android.",
-    "ios": "Update text for iOS.",
-    "pc": "Update text for PC, I changed things"
+    "android": "FlipFlopXL text for Android.",
+    "ios": "FlipFlopXL text for iOS.",
+    "pc": "FlipFlopXL text for PC"
 }
